@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/github.io/pet-adoption/static/js/main.3366cb52.chunk.js",
+    "main.js.map": "/github.io/pet-adoption/static/js/main.3366cb52.chunk.js.map",
+    "runtime-main.js": "/github.io/pet-adoption/static/js/runtime-main.a36cce6c.js",
+    "runtime-main.js.map": "/github.io/pet-adoption/static/js/runtime-main.a36cce6c.js.map",
+    "static/js/2.6a96a866.chunk.js": "/github.io/pet-adoption/static/js/2.6a96a866.chunk.js",
+    "static/js/2.6a96a866.chunk.js.map": "/github.io/pet-adoption/static/js/2.6a96a866.chunk.js.map",
+    "static/js/3.9ca0359a.chunk.js": "/github.io/pet-adoption/static/js/3.9ca0359a.chunk.js",
+    "static/js/3.9ca0359a.chunk.js.map": "/github.io/pet-adoption/static/js/3.9ca0359a.chunk.js.map",
+    "index.html": "/github.io/pet-adoption/index.html",
+    "static/js/2.6a96a866.chunk.js.LICENSE.txt": "/github.io/pet-adoption/static/js/2.6a96a866.chunk.js.LICENSE.txt",
+    "static/media/logo.c7c56d31.svg": "/github.io/pet-adoption/static/media/logo.c7c56d31.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a36cce6c.js",
+    "static/js/2.6a96a866.chunk.js",
+    "static/js/main.3366cb52.chunk.js"
+  ]
+}
